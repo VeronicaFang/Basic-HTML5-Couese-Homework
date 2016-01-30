@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    width:80%;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    
+}
+.header{
+    background-color: aquamarine;
+    margin: auto;
+}
+
+.post{
+    width: 80%;
+    background-color: aqua;
+    float: left
+}
+
+.aside{
+    width: 20%;
+    background-color: azure;
+    float: left;
+    
+}
+footer{
+    background-color: bisque;
+    clear: both;
+}
